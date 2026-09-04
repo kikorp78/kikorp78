@@ -1,6 +1,8 @@
 # 💫 About Me
 
-💬 Hi, my name is Vuk. I am a software engineer living in Germany. If you want to contact me, send me an email.
+💬 Hi, my name is Vuk. I am a software engineer living in Germany. If you want to contact me, feel free to send me an email.
+
+💁‍♂️ Since almost all of my work is private, I don't have many public repositories.
 
 ![](https://streak-stats.demolab.com/?user=kikorp78&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kikorp78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
