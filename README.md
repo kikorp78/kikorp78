@@ -2,7 +2,6 @@
 
 💬 Hi, my name is Vuk. I am a software engineer living in Germany. If you want to contact me, send me an email.
 
-![](https://github-readme-stats.shion.dev/api?username=kikorp78&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=kikorp78&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kikorp78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
